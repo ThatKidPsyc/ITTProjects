@@ -28,7 +28,7 @@ public class TestPart2 {
 		  dollarAmount = rmbAmount/exchangeRate;
 		  System.out.print(rmbAmount + " yuan is $" + dollarAmount);
 		 } else {
-		  System.out.print("Invalid choice.");
+		  System.out.print("Incorrect Input.");
 		 }
 		}
 }
